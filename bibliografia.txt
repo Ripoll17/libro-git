@@ -1,0 +1,4 @@
+git status
+;
+git add .
+B. Pro Git. Apress.
